@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\bin\Debug\netcoreapp2.0\Human.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\bin\Debug\netcoreapp2.0\Human.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\bin\Debug\netcoreapp2.0\Human.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\bin\Debug\netcoreapp2.0\Human.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\bin\Debug\netcoreapp2.0\Human.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\obj\Debug\netcoreapp2.0\Human.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\obj\Debug\netcoreapp2.0\Human.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\obj\Debug\netcoreapp2.0\Human.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\obj\Debug\netcoreapp2.0\Human.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\Human\obj\Debug\netcoreapp2.0\Human.pdb
