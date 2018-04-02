@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\fundamentals1\\fundamentals1.csproj",
-      "projectName": "fundamentals1",
-      "projectPath": "c:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\fundamentals1\\fundamentals1.csproj",
+      "projectUniqueName": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\Puzzles\\Puzzles.csproj",
+      "projectName": "Puzzles",
+      "projectPath": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\Puzzles\\Puzzles.csproj",
       "packagesPath": "C:\\Users\\Javier Gonzalez\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\fundamentals1\\obj\\",
+      "outputPath": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\Puzzles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

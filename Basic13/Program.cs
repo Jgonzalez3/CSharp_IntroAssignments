@@ -66,9 +66,10 @@ namespace Basic13
             }
             float floatsum = sum;
             float avg = floatsum/x.Length;
+            // float MinMaxAvg = 
             Console.WriteLine("Min:" + min + ", Max:" + max + ", Avg:" + avg);
         }
-        public static void ShiftVal(int[] x){
+        public static int[] ShiftVal(int[] x){
             for (int idx = 0; idx < x.Length; idx++){
                 if (idx == x.Length-1){
                     x[idx] = 0;
@@ -78,14 +79,16 @@ namespace Basic13
                 }
                 Console.WriteLine(x[idx]);
             }
+            return x;
         }
-        public static void NumToStr(object[] x){
+        public static object[] NumToStr(object[] x){
             for(int idx = 0; idx < x.Length; idx++){
                 if((int)x[idx] < 0){
                     x[idx] = "Dojo";
                 }
                 Console.WriteLine(x[idx]);
             }
+            return x;
         }
         static void Main(string[] args)
         {

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\collections\\collections.csproj",
+      "projectUniqueName": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\collections\\collections.csproj",
       "projectName": "collections",
-      "projectPath": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\collections\\collections.csproj",
+      "projectPath": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\collections\\collections.csproj",
       "packagesPath": "C:\\Users\\Javier Gonzalez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\collections\\obj\\",
+      "outputPath": "C:\\Users\\Javier Gonzalez\\Documents\\CodingDojo\\Bootcamp\\C#\\C#_IntroAssignments\\collections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

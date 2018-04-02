@@ -48,7 +48,7 @@ namespace collections
             int icecream = 0;
             var keys = new List<string>(users.Keys);
             foreach (string key in keys){
-                icecream = rand.Next(1,4);
+                icecream = rand.Next(1,5);
                 if (icecream == 1){
                     users[key] = "Neopolitan";
                 }
